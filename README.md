@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, eu sou o Jonas Farias 😁
 
-<!--
-**JonasFarias/JonasFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eunati.py/)
+   [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-farias/)
+   [![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jonasfarias93/)
+   [![Social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com.br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jonas Farias GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasFarias&show_icons=true&?count_private=true&theme=radical&title_color(255,165,0))
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasfarias&repo=Um-Pouco-Sobre-Python)](https://github.com/jonasfarias/Um-Pouco-Sobre-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasfarias&repo=Aprendendo-Linux)](https://github.com/JonasFarias/Aprendendo-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasfarias&repo=Curso-de-html-css)](https://github.com/JonasFarias/Curso-de-html-css)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasfarias&repo=Curso-de-JavaScript)](https://github.com/JonasFarias/Curso-de-JavaScript)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasFarias&layout=compact)](https://github.com/JonasFarias?tab=repositories)
